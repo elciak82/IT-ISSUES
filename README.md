@@ -13,5 +13,7 @@ IT issues
 
 **DevOps**
 
+**Andon cord** (przycisk) - (fabryka Toyoty) - kazda osoba pracująca nad oprogramowaniem, jest w stanie zapisac release. Wszyscy szukają rozwiązania, produkcja jest zatrzymana.
+
 
 
